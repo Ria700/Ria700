@@ -19,7 +19,7 @@
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-[<img align="left" alt="LinkedIn"height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />](https://www.linkedin.com/in/ria-monga/)
+<img align="left" alt="LinkedIn"height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />(https://www.linkedin.com/in/ria-monga/)
 [<img align="left" alt="Twitter" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" />](https://twitter.com/riamonga7)
 [<img align="left" alt="StackOverFlow" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/stackoverflow.svg" />][https://stackoverflow.com/users/13900473/ria-monga?tab=profile]
 [<img align="left" alt="Dev.to" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/dev-dot-to.svg" />](https://dev.to/ria700)
