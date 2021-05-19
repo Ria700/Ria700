@@ -19,13 +19,13 @@
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-[<img align="left" alt="LinkedIn"height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />][https://www.linkedin.com/in/ria-monga/]
-[<img align="left" alt="Twitter" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter].svg" />][https://twitter.com/riamonga7]
-[<img align="left" alt="StackOverFlow" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/stackoverfow.svg" />][https://stackoverflow.com/users/13900473/ria-monga?tab=profile]
-[<img align="left" alt="Dev.to" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/dev-dot-to.svg" />][https://dev.to/ria700]
-[<img align="left" alt="Medium" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/medium.svg" />][https://medium.com/@ria.monga07]
-[<img align="left" alt="CodePen" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/codepen.svg" />][https://codepen.io/ria700]
-[<img align="left" alt="Instagram" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][https://www.instagram.com/monga_ria/]
+[<img align="left" alt="LinkedIn"height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />](https://www.linkedin.com/in/ria-monga/)
+[<img align="left" alt="Twitter" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" />](https://twitter.com/riamonga7)
+[<img align="left" alt="StackOverFlow" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/stackoverflow.svg" />][https://stackoverflow.com/users/13900473/ria-monga?tab=profile]
+[<img align="left" alt="Dev.to" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/dev-dot-to.svg" />](https://dev.to/ria700)
+[<img align="left" alt="Medium" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/medium.svg" />](https://medium.com/@ria.monga07)
+[<img align="left" alt="CodePen" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/codepen.svg" />](https://codepen.io/ria700)
+[<img align="left" alt="Instagram" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />](https://www.instagram.com/monga_ria/)
   
 </p>
 
