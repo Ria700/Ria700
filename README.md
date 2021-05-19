@@ -1,3 +1,5 @@
+[![Header](https://raw.githubusercontent.com/Ria700/<OWNER>/<OWNER>/readme_header.gif "Header")]
+
 ### Hi there, I'm Ria Monga 👋 
 
 # I'm a java programmer, a frontend developer, and a tech enthusiast!
