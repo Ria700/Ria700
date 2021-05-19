@@ -1,4 +1,4 @@
-![Header](https://raw.githubusercontent.com/Ria700/<OWNER>/<OWNER>/header.gif "Header")
+![Header](https://user-images.githubusercontent.com/62502140/118869314-dc2de300-b902-11eb-88e8-b1fc124a2899.gif)
 
 
 ### Hi there, I'm Ria Monga 👋 
