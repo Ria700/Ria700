@@ -5,6 +5,8 @@
 
 # I'm a java programmer, a frontend developer, and a tech enthusiast!
 
+<img align="right" src="https://user-images.githubusercontent.com/62502140/118968813-ffe83c00-b989-11eb-8bcd-45f41037092b.png" alt="ria-monga" height="400" />
+
 - 🔭 I’m currently working on SheGazettte
 - 🌱 I’m currently learning Web Development
 - 👯 I’m looking to collaborate on projects
@@ -14,7 +16,6 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I have broken humor
 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ria-monga" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" alt="ria-monga" height="30" width="40" /></a>
@@ -23,9 +24,7 @@
 <a href="https://codepen.io/ria700" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/codepen.svg" alt="ria700" height="30" width="40" /></a>
 <a href="https://dev.to/ria700" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="ria700" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/13900473" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/stackoverflow.svg" alt="13900473" height="30" width="40" /></a>
-<a href="https://instagram.com/monga_ria" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg"" alt="monga_ria" height="30" width="40" /></a>
-
-</p>
+<a href="https://instagram.com/monga_ria" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg"" alt="monga_ria" height="30" width="40" /></a> </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>    <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>    <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
