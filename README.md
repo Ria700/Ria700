@@ -56,6 +56,9 @@
 </details>
    
 ### Spotify Playing 🎧
+ 
+[![Spotify](https://spotify-riamonga07-gmailcom.vercel.app/api/spotify)](https://open.spotify.com/user/4hx4fenr8xlhv2xzrog7m5ins)
+   
    
 [<img src="https://spotify-riamonga07-gmailcom.vercel.app/api/spotify" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/4hx4fenr8xlhv2xzrog7m5ins)
 
