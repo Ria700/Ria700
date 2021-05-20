@@ -48,4 +48,9 @@
 
 </details>
 
+### Spotify Playing 🎧
+   
+[<img src="https://novatorem-lilac-eight.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/4hx4fenr8xlhv2xzrog7m5ins)
+<!-- [(https://novatorem-lilac-eight.vercel.app/api/spotify-playing)] -->
+
 
