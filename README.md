@@ -20,7 +20,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/ria-monga" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" alt="ria-monga" height="30" width="40" /></a>
 <a href="https://twitter.com/riamonga7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" alt="riamonga7" height="30" width="40" /></a>
-<a href="https://medium.com/@ria.monga07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/medium.svg" alt="@ria.monga07" height="30" width="40" /></a>
+<a href="https://ria-monga.medium.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/medium.svg" alt="@ria.monga07" height="30" width="40" /></a>
 <a href="https://codepen.io/ria700" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/codepen.svg" alt="ria700" height="30" width="40" /></a>
 <a href="https://dev.to/ria700" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="ria700" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/13900473" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/stackoverflow.svg" alt="13900473" height="30" width="40" /></a>
