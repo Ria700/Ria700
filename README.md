@@ -8,7 +8,7 @@
 <img align="right" src="https://user-images.githubusercontent.com/62502140/118968813-ffe83c00-b989-11eb-8bcd-45f41037092b.png" alt="ria-monga" height="400" />
 
 - 🔭 I’m currently working on SheGazettte
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently a Generation Google Scholar
 - 👯 I’m looking to collaborate on projects
 - 🤔 I’m looking for help with JavaScript
 - 💬 Ask me about blogs
