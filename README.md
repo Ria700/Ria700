@@ -12,9 +12,9 @@
 - 👯 I’m looking to collaborate on projects
 - 🤔 I’m looking for help with JavaScript
 - 💬 Ask me about blogs
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ria-monga/), [Twitter](https://twitter.com/riamonga7)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I have broken humor
+<!-- - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ria-monga/), [Twitter](https://twitter.com/riamonga7) -->
 
 <h3 align="left">Connect with me: <img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="79px"></h3> 
 <p align="left">
