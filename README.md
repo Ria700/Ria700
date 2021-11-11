@@ -1,4 +1,4 @@
-![Header](https://user-images.githubusercontent.com/62502140/118869314-dc2de300-b902-11eb-88e8-b1fc124a2899.gif)
+<img align="center" src="https://user-images.githubusercontent.com/62502140/141346916-1f6a0b40-8f97-4f8d-9e80-5a12bf11dbf2.gif" width="1000px">
 
 
 ### Hi there, I'm Ria Monga <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="39px"> 
