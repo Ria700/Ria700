@@ -3,7 +3,7 @@
 
 ### Hi there, I'm Ria Monga <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="39px"> 
 
-# I'm a java programmer, a frontend developer, and a tech enthusiast! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="29px">
+# I'm a java programmer, a frontend developer, and a tech enthusiast! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="1px">
 
 <img align="right" src="https://user-images.githubusercontent.com/62502140/118968813-ffe83c00-b989-11eb-8bcd-45f41037092b.png" alt="ria-monga" height="400" />
 
